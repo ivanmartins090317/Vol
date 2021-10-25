@@ -1,0 +1,70 @@
+body {
+  background:url(image/SURFBOARD\ VOLUME\ \(3\).png);
+  height: 100%;
+  
+  
+}
+main{
+  font-style: italic;
+  height:100%;
+  margin: 12rem 12rem 0rem; /*y,x,z*/
+  background-size:auto;
+  place-items: justify;
+  color:rgb(15, 10, 10);
+
+    
+}
+
+a{
+  font-size: 10pt;
+  text-decoration:none;
+  margin-top:auto;
+  display:flex;
+  color: white;
+  gap:0.5rem;
+}
+ul{
+  list-style: none;
+  margin-top: 1rem ;
+  padding: 0;
+  display: flex;
+  gap: 0.7rem;
+  place-items: center;
+  
+}
+
+p{
+  margin-top: 0rem;
+  font-size: small;
+  color:black;
+  text-align:center;
+  display: flex;
+  
+}
+
+input[type="button"]{
+  
+  width:7.5rem;
+  background-color:rgb(245, 170, 100);
+  border-radius: 10px;
+  margin-top: 0.5rem;
+  color: white;
+  
+
+}
+
+input[name="blc1"]{
+  
+  width:7.5rem;
+  border-radius: 10px;
+  text-align: center;
+  
+}
+input[name=blc2]{
+  width:7.5rem;
+  border-radius: 10px;
+  text-align: center;
+
+  
+}
+
