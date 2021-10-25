@@ -13,6 +13,6 @@ function calc(){
   <strong>${m.toFixed(2)}</strong> litros (Intermediario)<strong>   
   ${avanc.toFixed(2)}</strong> litros (Avançado)`
 }
-function calc()
+
 
 
